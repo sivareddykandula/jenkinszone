@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="Siva World" default="info">
+    <target name="info">
+        <echo>Siva world - Welcome to Ant</echo>
+    </target>
+</project>
